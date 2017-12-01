@@ -1,6 +1,6 @@
 "Rock Paper Scissors"
 
-# add plau again feature
+# add play again feature
 # add scores for both the computer and the player
 # add main menu
 import random
